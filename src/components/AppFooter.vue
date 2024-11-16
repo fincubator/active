@@ -55,7 +55,7 @@ export default {
 
 .social-icons {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   margin-right: 30px;
 }
@@ -100,7 +100,7 @@ export default {
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
   .footer {
-    padding: 20px;
+    padding: 10px;
   }
 
   .social-icons img {
@@ -116,7 +116,7 @@ export default {
 
 @media (min-width: 1200px) {
   .footer {
-    padding: 20px;
+    padding: 10px;
   }
 
   .social-icons img {

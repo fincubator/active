@@ -280,10 +280,8 @@ button.view-all-button:hover {
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-
-
   .blockchain-link {
-    width: 30%;
+    width: 20%;
     margin: 10px;
   }
 
@@ -308,7 +306,7 @@ button.view-all-button:hover {
   }
 
   button.view-all-button {
-    font-size: 1em;
+    font-size: 0.7em;
   }
 
   .blockchain img {
@@ -319,7 +317,7 @@ button.view-all-button:hover {
 
 @media (min-width: 1200px) {
   .validate {
-    padding: 20px;
+    padding: 10px;
     margin-top: 10px;
   }
 
@@ -329,7 +327,7 @@ button.view-all-button:hover {
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 1.25em;
   }
 
   p {

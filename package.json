@@ -1,5 +1,5 @@
 {
-  "name": "consensus-guards",
+  "name": "active",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
     "dotenv": "^16.4.5",
-    "vue": "^3.2.13",
+    "vue": "latest",
     "vue-router": "^4.4.2"
   },
   "devDependencies": {
@@ -21,7 +21,7 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
-    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-service": "latest",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3"
   },
